@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": "2",
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": "3",
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": "9",
+      "title": "2",
+      "datetime": "December, 13, 2024 7:48:00 AM",
+      "body": "2"
+    },
+    {
+      "id": "10",
+      "title": "356666",
+      "datetime": "December, 13, 2024 11:31:47 AM",
+      "body": "dhgdhgd"
+    },
+    {
+      "id": "11",
+      "title": "1111",
+      "datetime": "December, 13, 2024 12:27:59 PM",
+      "body": "1111"
+    },
+    {
+      "id": "12",
+      "title": "122",
+      "datetime": "December, 13, 2024 12:28:11 PM",
+      "body": "122"
+    },
+    {
+      "id": "13",
+      "title": "133",
+      "datetime": "December, 13, 2024 12:27:13 PM",
+      "body": "133"
+    },
+    {
+      "id": "14",
+      "title": "144",
+      "datetime": "December, 13, 2024 12:28:40 PM",
+      "body": "144"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "item": "Internet telephony",
+      "description": "CRM with SIP Call-Center Asterisk client."
+    },
+    {
+      "id": "2",
+      "item": "Debt Collection Management System",
+      "description": "Intelligent system for the debt collection and automation system for helping to execute tasks at the level of a human debt collection expert."
+    },
+    {
+      "id": "3",
+      "item": "HRM System",
+      "description": " Automated Human Resource Management System."
+    },
+    {
+      "id": "4",
+      "item": "Career Adviser",
+      "description": "Providing people with guidance on many career issues and helps to find the right profession.​This is the Automated work place for the professional career adviser."
+    },
+    {
+      "id": "5",
+      "item": "School Career Adviser",
+      "description": "Providing students with guidance on many career issues and helps to find the right profession. Ensures the right kind of help to overcome and stop students from making such mistakes in finding the right profession and what career they should take. This is the Automated work place for the professional school career adviser."
+    }
+  ]
+}
