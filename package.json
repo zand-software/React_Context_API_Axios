@@ -1,6 +1,7 @@
 {
   "name": "zand_software_site",
   "version": "0.1.0",
+  "homepage": "https://zand-software.github.io/react_context_api",
   "private": true,
   "dependencies": {
     "axios": "^1.7.9",
@@ -12,6 +13,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
