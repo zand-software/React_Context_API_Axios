@@ -16,6 +16,7 @@ To clean the application from what we do not use:
     npm uninstall web-vitals
     
 -------------------------------------------------------------------------------------------
+Context API
 
 With posts and projects
 
