@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_context_api_axios/static/css/main.6b366612.css",
+    "main.js": "/react_context_api_axios/static/js/main.9916482c.js",
+    "index.html": "/react_context_api_axios/index.html",
+    "main.6b366612.css.map": "/react_context_api_axios/static/css/main.6b366612.css.map",
+    "main.9916482c.js.map": "/react_context_api_axios/static/js/main.9916482c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b366612.css",
+    "static/js/main.9916482c.js"
+  ]
+}
