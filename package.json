@@ -1,7 +1,7 @@
 {
   "name": "zand_software_site",
   "version": "0.1.0",
-  "homepage": "https://zand-software.github.io/react_context_api",
+  "homepage": "https://zand-software.github.io/react_context_api_axios",
   "private": true,
   "dependencies": {
     "axios": "^1.7.9",
